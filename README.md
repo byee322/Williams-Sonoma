@@ -3,7 +3,7 @@
 ### Using `Williams Sonoma Challange`
 
 ```bash
-git clone 
+git clone https://github.com/byee322/Williams-Sonoma.git
 ```
 
 Install it and run:
@@ -16,10 +16,7 @@ yarn
 yarn dev
 ```
 
-Go to your terminals and now run
-```bash
-npm run start
+wait for compilation... 
 
 #navigate to localhost:3000
-```
 
